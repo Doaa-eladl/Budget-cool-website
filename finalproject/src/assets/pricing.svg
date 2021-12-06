@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1854px" height="639px" viewBox="0 0 1854 639" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>section3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="10.0075502%" y1="34.0726595%" x2="99.4571924%" y2="34.0726584%" id="linearGradient-1">
+            <stop stop-color="#011F3F" offset="0%"></stop>
+            <stop stop-color="#11437C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="10.0075502%" y1="34.0726595%" x2="99.4571924%" y2="34.0726584%" id="linearGradient-2">
+            <stop stop-color="#2962FF" offset="0%"></stop>
+            <stop stop-color="#2351D2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Home" transform="translate(0.000000, -2681.000000)">
+            <g id="Group-15" transform="translate(-459.000000, 2681.000000)">
+                <g id="section3">
+                    <path d="M379.869376,37.4994844 C686.326043,5.86325883 1192.17058,17.1219014 1897.40297,71.2754122 C2465.0552,531.975007 2450.84034,700.728258 1854.75839,577.535164 C960.635466,392.745522 217.414543,840.848106 85.9986912,516.526188 C-45.4171604,192.20427 -79.8156237,84.9538227 379.869376,37.4994844 Z" id="Rectangle-5" fill="url(#linearGradient-1)" transform="translate(1156.370725, 329.069675) scale(-1, 1) translate(-1156.370725, -329.069675) "></path>
+                    <path d="M376.584363,16.9332857 C680.39087,-13.6793446 1181.86099,-2.78497722 1880.99472,49.6163878 C2443.73803,495.409972 2429.6461,658.703183 1838.71891,539.496022 C952.328135,360.68528 215.534397,794.289431 85.2549964,480.461002 C-45.0244044,166.632573 -79.1253984,62.8522312 376.584363,16.9332857 Z" id="Rectangle-5" fill="url(#linearGradient-2)" transform="translate(1146.370725, 299.069675) scale(-1, 1) translate(-1146.370725, -299.069675) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
